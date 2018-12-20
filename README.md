@@ -1,3 +1,4 @@
 # hello-world
 learning repository
-the master branch
+edited for exercise
+Wrong Way dude!
