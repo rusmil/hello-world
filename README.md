@@ -1,3 +1,3 @@
 # hello-world
 learning repository
-edited for exercise
+The master branch edited for exercise
